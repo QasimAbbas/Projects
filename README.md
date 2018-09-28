@@ -25,13 +25,13 @@ A repo dedicated to project descriptions of stuff that I am working on/want to w
 
 ## HackRU Projects
 
-[Travel Reimbursements](#cave-projects)
+[Travel Reimbursements](#hackru-projects)
 * Create a way to track who is traveling from where and any way to connect and help them out with navigating to the hackathon or any hackathon as well as carpool with people coming from similar areas.  This will also act as a calculator for an estimate that can be used by our hackathon based off of our budget
 
 ## Rutgers Projects
 
-[RU Scheduler](#cave-projects)
+[RU Scheduler](#hackru-projects)
 * Kiran's old application!  A way to take your class schedule from Webreg and put it into a google calendar with the push of a button
 
-[RU CourseMap](#cave-projects)
+[RU CourseMap](#hackru-projects)
 * A small application that can tell you the track of course you want to take and plan out your college career at Rutgers University.  Mapping out prerequistes and credits and all.
