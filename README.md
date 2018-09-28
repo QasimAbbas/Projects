@@ -30,7 +30,7 @@ A repo dedicated to project descriptions of stuff that I am working on/want to w
 
 ## Rutgers Projects
 
-[RU Scheduler](#hackru-projects)
+[RUCourse Scheduler](#hackru-projects)
 * Kiran's old application!  A way to take your class schedule from Webreg and put it into a google calendar with the push of a button
 
 [RU CourseMap](#hackru-projects)
