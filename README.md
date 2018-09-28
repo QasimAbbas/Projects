@@ -15,9 +15,13 @@ A repo dedicated to project descriptions of stuff that I am working on/want to w
 * Bean is the CAVE's little Raspberry Pi.  He is used to display bus times and inspirational quotes and such.  Unfortunately he was feeling a bit under the weather and now needs a fresh OS install.
 
 [Bus Times LED]()
-* 
+* We have a cool lit board in the CAVE but the information isn't as useful on it as we want it to be!  Try to start off with adding bus times of Hill Cente stop and expand from there!
 
-[]()
+[CAVE Mobile App]()
+* A way for people to see what is happening in the CAVE.  From events to who's on duty to amount of people being helped.  An application to track all of that information!
+
+[CAVE Website]()
+* A way for people to see what is happening in the CAVE.  From events to who's on duty to amount of people being helped.  A web application to track all of that information!
 
 ## HackRU Projects
 
